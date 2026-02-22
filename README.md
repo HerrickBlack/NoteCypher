@@ -1,6 +1,7 @@
 # NoteCypher - PDF Note Optimizer
 
 A free, local PDF optimization tool for students. All processing happens in your browser - no files are ever sent to a server.
+Made For Students to make their Life Amazing !!
 
 ## Features
 
